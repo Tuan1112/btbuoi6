@@ -1,0 +1,15 @@
+C:\Users\Computer\Desktop\bt\buoi6\bin\Debug\buoi6.exe.config
+C:\Users\Computer\Desktop\bt\buoi6\bin\Debug\buoi6.exe
+C:\Users\Computer\Desktop\bt\buoi6\bin\Debug\buoi6.pdb
+C:\Users\Computer\Desktop\bt\buoi6\obj\Debug\buoi6.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\bt\buoi6\obj\Debug\buoi6.Properties.Resources.resources
+C:\Users\Computer\Desktop\bt\buoi6\obj\Debug\buoi6.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\bt\buoi6\obj\Debug\buoi6.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\bt\buoi6\obj\Debug\buoi6.exe
+C:\Users\Computer\Desktop\bt\buoi6\obj\Debug\buoi6.pdb
+C:\Users\Computer\Desktop\bt\buoi6\bin\Debug\EntityFramework.dll
+C:\Users\Computer\Desktop\bt\buoi6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Computer\Desktop\bt\buoi6\bin\Debug\EntityFramework.xml
+C:\Users\Computer\Desktop\bt\buoi6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Computer\Desktop\bt\buoi6\obj\Debug\buoi6.csproj.Up2Date
+C:\Users\Computer\Desktop\bt\buoi6\obj\Debug\buoi6.Form1.resources

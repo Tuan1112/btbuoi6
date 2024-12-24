@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Computer\\Desktop\\bt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0995B-B6C2-45C3-A84C-DD4376AB91B3}|buoi6\\buoi6.csproj|c:\\users\\computer\\desktop\\bt\\buoi6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA0995B-B6C2-45C3-A84C-DD4376AB91B3}|buoi6\\buoi6.csproj|solutionrelative:buoi6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0995B-B6C2-45C3-A84C-DD4376AB91B3}|buoi6\\buoi6.csproj|C:\\Users\\Computer\\Desktop\\bt\\buoi6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFA0995B-B6C2-45C3-A84C-DD4376AB91B3}|buoi6\\buoi6.csproj|solutionrelative:buoi6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0995B-B6C2-45C3-A84C-DD4376AB91B3}|buoi6\\buoi6.csproj|C:\\Users\\Computer\\Desktop\\bt\\buoi6\\models\\studentcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA0995B-B6C2-45C3-A84C-DD4376AB91B3}|buoi6\\buoi6.csproj|solutionrelative:buoi6\\models\\studentcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\bt\\buoi6\\Form1.cs",
+              "RelativeDocumentMoniker": "buoi6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Computer\\Desktop\\bt\\buoi6\\Form1.cs",
+              "RelativeToolTip": "buoi6\\Form1.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwGEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:43:24.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\bt\\buoi6\\Form1.cs",
+              "RelativeDocumentMoniker": "buoi6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Computer\\Desktop\\bt\\buoi6\\Form1.cs [Design]",
+              "RelativeToolTip": "buoi6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:42:11.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentContextDB.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\bt\\buoi6\\Models\\StudentContextDB.cs",
+              "RelativeDocumentMoniker": "buoi6\\Models\\StudentContextDB.cs",
+              "ToolTip": "C:\\Users\\Computer\\Desktop\\bt\\buoi6\\Models\\StudentContextDB.cs",
+              "RelativeToolTip": "buoi6\\Models\\StudentContextDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:41:45.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
